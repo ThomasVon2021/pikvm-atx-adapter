@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-![image-20211212183322552](https://cos-1257958677.cos.ap-beijing.myqcloud.com/image-20211212183322552.png)
+![1](image/1.png)
 
 
 
@@ -20,7 +20,7 @@ ATXA is an ATX adapter borad to manage the power of your computer. The product i
 | SW PWR  | GPIO23 |
 | SW RST  | GPIO27 |
 
-![image-20211212213620945](https://cos-1257958677.cos.ap-beijing.myqcloud.com/image-20211212213620945.png)
+![2](image/2.png)
 
 A-board is connected to B-board through a network cable. The following table is the corresponding relationship between the pin status of A-board and B-board.
 
@@ -39,8 +39,8 @@ A-board is connected to B-board through a network cable. The following table is 
 
 The b-board has an adapted full-height and half-height metal PCI mounting plate, which can be installed on the computer case. The user connects the pins on the B-board to the ATX control interface on the computer motherboard using the color DuPont cables provided with the product.
 
-![image-20211212222128814](https://cos-1257958677.cos.ap-beijing.myqcloud.com/image-20211212222128814.png)
+![3](image/3.png)
 
 ## 3.Mechanical Diagram
 
-![image-20211212224316049](https://cos-1257958677.cos.ap-beijing.myqcloud.com/image-20211212224316049.png)
+![4](image/4.png)
