@@ -43,3 +43,6 @@ The b-board has an adapted full-height and half-height metal PCI mounting plate,
 ## 3.Mechanical Diagram
 
 ![4](image/4.png)
+
+## 4.More link
+Purchase：<a href="https://www.aliexpress.com/item/1005003761450893.html?spm=a2g0o.store_pc_allProduct.8148356.12.4c8f16b4prvvUV" target="_blank">BLIKVM</a>
