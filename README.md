@@ -2,6 +2,8 @@
 
 ## 1. Introduction
 
+<img src="image/ATXA_A.png" style="zoom:70%">
+
 ![ATXA_A](image/ATXA_A.png)
 ![ATXA_B](image/ATXA_B.png)
 
