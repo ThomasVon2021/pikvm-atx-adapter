@@ -1,12 +1,10 @@
 # ATXA
 
 ## 1. Introduction
-
+ATXA is an ATX adapter borad to manage the power of your computer. The product includes two modules A-board and B-board. A-board is connected to the Raspberry Pi, B-board is connected to the computer's motherboard, and A-board is connected to B-board through a network cable.
 <img src="image/ATXA_A.png" style="zoom:10%">
 
 ![ATXA_B](image/ATXA_B.png)
-
-ATXA is an ATX adapter borad to manage the power of your computer. The product includes two modules A-board and B-board. A-board is connected to the Raspberry Pi, B-board is connected to the computer's motherboard, and A-board is connected to B-board through a network cable.
 
 ## 2. A-board
  A-board is connected to the Raspberry Pi. The following table is a typical connection method in PiKVM application.
@@ -45,5 +43,8 @@ The b-board has an adapted full-height and half-height metal PCI mounting plate,
 
 ![4](image/4.png)
 
-## 4.More link
-Purchase：<a href="https://www.aliexpress.com/item/1005003761450893.html?spm=a2g0o.store_pc_allProduct.8148356.12.4c8f16b4prvvUV" target="_blank">BLIKVM</a>
+## 4.Test video
+youtube：<a href="https://www.youtube.com/watch?v=gOFdGrVMBU8" target="_blank">ATX</a>
+
+## 5.More link
+Purchase：<a href="https://www.aliexpress.com/item/1005003761450893.html?spm=a2g0o.store_pc_allProduct.8148356.12.4c8f16b4prvvUV" target="_blank">ATX</a>
