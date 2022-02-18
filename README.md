@@ -1,7 +1,7 @@
 # ATXA
 
 ## 1. Introduction
-ATXA is an ATX adapter borad to manage the power of your computer. The product includes two modules A-board and B-board. A-board is connected to the Raspberry Pi, B-board is connected to the computer's motherboard, and A-board is connected to B-board through a network cable.
+ATXA is an ATX adapter borad to manage the power of your computer. The product includes two modules A-board and B-board. A-board is connected to the Raspberry Pi, B-board is connected to the computer's motherboard, and A-board is connected to B-board through a network cable.Join to the <a href="https://discord.gg/9Y374gUF6C" target="_blank">Discord Community Chat</a> for news, questions and support!
 <img src="image/ATXA_A.png" style="zoom:10%">
 
 ![ATXA_B](image/ATXA_B.png)
